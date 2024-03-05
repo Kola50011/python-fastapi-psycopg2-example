@@ -20,3 +20,7 @@
 * requests
     * docs: https://requests.readthedocs.io/en/latest/
     * source: https://github.com/psf/requests
+
+## Useful sources
+* pypy -> https://pypi.org/
+* python -> https://docs.python.org/3/library/index.html
