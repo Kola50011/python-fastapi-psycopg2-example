@@ -1,0 +1,5 @@
+black
+pydantic
+fastapi
+psycopg2
+uvicorn
